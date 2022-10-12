@@ -75,7 +75,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.atguigu.gulimall.gulimallproduct.GulimallProductApplication</mainClass>
+                    <mainClass>com.atguigu.gulimall.GulimallProductApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>
